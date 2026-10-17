@@ -43,3 +43,9 @@ Note that there should be at least one of either the `pypi` or `repo` fields for
 Then, please add as much information and instructions about your Integration as possible as the body of your `.md` file.
 
 Open a Pull Request, and congrats, if all goes well, you will see your integration on the integrations page in no time 🥳
+
+<!-- fork-notice: start -->
+### Legal notice for this fork
+
+This repository is a fork of an upstream project. The original authors' licenses, copyrights and terms remain in force. Read the [Supplemental Fork Risk Notice](DISCLAIMER.md) for information about the fork maintainer's contributions. This notice does not amend upstream terms or waive mandatory rights.
+<!-- fork-notice: end -->
